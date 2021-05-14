@@ -1,6 +1,17 @@
+
+/INSTRUCTION
+//this csv is used by this action for the Drafts app: https://actions.getdrafts.com/a/1mE
+//you can make a pull request to add your own suggestions
+
+//===============================================================================
+//in some cases, you want to add a space (" ") as prefix or suffix, to prevent unintended replacements, e.g. "youth" ➞ "uth"
+//empty lines and lines *beginning* with "//" will be filtered out
+//remember that the replacements are case sensitive
+//===============================================================================
+
 //Cleaning
 "  "," "
-"\n\n\n","\n\n" 
+"\n\n\n","\n\n"
 
 //internet lingo
 "Facebook","FB"
@@ -48,5 +59,5 @@
 " vor ", "v "
 " von "," v "
 "Deutschland","D"
-" Europa "," EU "
+"Europa "," EU "
 " deutsch "," dt "
