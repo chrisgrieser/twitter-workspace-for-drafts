@@ -2,56 +2,56 @@
 //this csv is used by this action for the Drafts app: https://actions.getdrafts.com/a/1mE
 //you can make a pull request to add your own suggestions
 //===============================================================================
-//in some cases, you want to add a space (" ") as prefix or suffix, to prevent unintended replacements, e.g. "youth" ➞ "uth"
-//empty lines and lines *beginning* with "//" will be filtered out
+//in some cases, you want to add a space ( ) as prefix or suffix, to prevent unintended replacements, e.g. youth ➞ uth
+//empty lines and lines *beginning* with // will be filtered out
 //remember that the replacements are case sensitive
 //===============================================================================
 
 //internet lingo
-"Facebook","FB"
-"Youtube","YT"
-"retweet","RT"
+Facebook,FB
+Youtube,YT
+retweet,RT
 
 //English
-" you "," u "
-" your "," ur "
-"yourself"," urself "
-"because","bc"
-"don't","dont"
-"number","no"
-"people","ppl"
-"until","til"
-"cannot","cant"
-"experience","exp."
-"In my opinion","IMO"
-"In my view","IMO"
-"before","b4"
-"great","gr8"
-"night","n8"
-"late","l8"
-"wait","w8"
-" please "," pls "
-"something","sth"
-"someone","so"
-"somebody","sb"
-" kind of "," kinda "
-" love "," ❤️ "
-" and "," & "
-"with","w/"
-"without","w/o"
+ you , u
+ your , ur 
+yourself, urself
+because,bc
+don't,dont
+number,no
+people,ppl
+until,til
+cannot,cant
+experience,exp.
+In my opinion,IMO
+In my view,IMO
+before,b4
+great,gr8
+night,n8
+late,l8
+wait,w8
+ please , pls
+something,sth
+someone,so
+somebody,sb
+ kind of , kinda
+ love , ❤️
+ and , &
+with,w/
+without,w/o
 
 //German
-" zwischen "," zw "
-" wegen "," wg "
-" allgemein "," allg "
-" oder "," / "
-" liebe "," ❤️ "
-"jemand","jmd"
-" und "," & "
-"eigentlich","eig"
-"Zusammenfassung","Zsfg"
-" vor ", "v "
-" von "," v "
-"Deutschland","D"
-"Europa "," EU "
-" deutsch "," dt "
+ zwischen , zw
+ wegen , wg
+ allgemein , allg
+ oder , /
+ liebe , ❤️
+jemand,jmd
+ und , &
+eigentlich,eig
+Zusammenfassung,Zsfg
+ vor , v
+ von , v
+Deutschland,D
+Europa , EU
+ deutsch , dt
