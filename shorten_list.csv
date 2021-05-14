@@ -5,6 +5,7 @@
 //in some cases, you want to add a space (" ") as prefix or suffix, to prevent unintended replacements, e.g. "youth" ➞ "uth"
 //empty lines and lines *beginning* with "//" will be filtered out
 //remember that the replacements are case sensitive
+//dont do regex here
 //===============================================================================
 
 //internet lingo
@@ -13,9 +14,7 @@
 "retweet","RT"
 
 //English
-" you "," u "
-" your "," ur "
-"yourself"," urself "
+"you ","u "
 "because","bc"
 "don't","dont"
 "number","no"
@@ -30,28 +29,28 @@
 "night","n8"
 "late","l8"
 "wait","w8"
-" please "," pls "
+"please","pls"
 "something","sth"
 "someone","so"
 "somebody","sb"
-" kind of "," kinda "
+" kind of"," kinda"
 "love","❤️"
-" and"," & "
+" and"," &"
 " with"," w/ "
 "without","w/o"
 
 //German
-" zwischen"," zw"
+"zwischen","zw"
 " wegen"," wg"
-" allgemein "," allg"
-" oder "," / "
-" liebe "," ❤️ "
+"allgemein","allg"
+" oder"," /"
+"liebe","❤️"
 "jemand","jmd"
-" und "," & "
+" und"," &"
 "eigentlich","eig"
 "Zusammenfassung","Zsfg"
-" vor", " v "
-" von"," v "
+" vor", " v"
+" von"," v"
 "Deutschland","D"
 "Europa ","EU "
 "deutsch","dt"
