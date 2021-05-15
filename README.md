@@ -11,8 +11,8 @@ While not a full-fleged Twitter client when it comes to interacting and reading 
 
 **Overcome with the 280-character-limit**
 - Visually indicate character limit.
-- Insert common abbreviations (e.g. ´with´ ➞  ´w/´) to stay under the character limit. Currently only for [English and German](https://github.com/chrisgrieser/twitter-workspace-for-drafts/blob/main/shorten_list.csv), but you can suggest  additions in other languages. Feel free to create an [issue](https://github.com/chrisgrieser/twitter-workspace-for-drafts/issues) or a pull make a pull request.
--  Save even more characters by replacing your text with various emojis (e.g. 'dog' ➞ 🐶). Define your own emojis-replacement.
+- Insert common abbreviations (e.g. `with` ➞  `w/`) to stay under the character limit. Currently only for [English and German](https://github.com/chrisgrieser/twitter-workspace-for-drafts/blob/main/shorten_list.csv), but you can suggest  additions in other languages. Feel free to create an [issue](https://github.com/chrisgrieser/twitter-workspace-for-drafts/issues) or a pull make a pull request.
+-  Save even more characters by replacing your text with various emojis (e.g. `dog` ➞ `🐶`). Define your own emojis-replacement.
 -  Automatically suggest splits for the Tweet Storm.
 
 **Read**
