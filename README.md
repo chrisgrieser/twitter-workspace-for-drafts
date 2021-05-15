@@ -16,19 +16,17 @@ While not a full-fleged Twitter client when it comes to interacting and reading 
 -  Automatically suggest splits for the Tweet Storm.
 
 **Read**
-- Your sent tweets are archived at Drafts. This makes them easily searchable and allows you to run other Drafts acitons on them.
 - Download faved tweets of any user.
 - Download Twitter search results.
 - View and print them in Markdown.
+- Tweets sent from Drafts are naturally archived in Drafts. This makes them easily searchable and allows you to run other Drafts acitons on them.
 
 ---
 
 ## Setup
-- Download the [Latest Release](https://github.com/chrisgrieser/twitter-workspace-for-drafts/releases/latest).
-- Open the .zip archive and install the action bar, the workspace, and the syntax file by double-clicking them. 
+- ➡️ **Download the [Latest Release](https://github.com/chrisgrieser/twitter-workspace-for-drafts/releases/latest).**
+- Open the .zip archive. Install the action bar, the workspace, and the syntax file by double-clicking them. 
 - _Theme Recommendation:_ I recommend [Northern Light](https://actions.getdrafts.com/t/1jC) and [Northern Dark](https://actions.getdrafts.com/t/1jD) as themes that match Twitter's aesthetic. 
-
----
 
 ## Credits
 - The syntax is derived from [nahumck's Tweet Syntax](https://actions.getdrafts.com/s/1iw) and adapted to work with the actions of this Workspace.
