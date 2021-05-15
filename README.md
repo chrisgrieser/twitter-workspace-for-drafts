@@ -1,13 +1,13 @@
-# Drafts Twitter Client (for Composing Tweets)
-While not a full-fleged Twitter client when it comes to reading Tweets, Drafts text manipulation capabilities have many advantages when it comes to composing tweets, like automatic repalcement of common abbreviations (Action: "Shorten Text"), or creating a long Twitter thread in one go (Action: "Tweet Storm").
+# Drafts Twitter Client
+While not a full-fleged Twitter client when it comes to interacting and reading tweets, Drafts text manipulation capabilities have many advantages. When it comes to the drafting of new tweets, Drafts can shine with features like automatic replacement of common abbreviations, or creating a long Twitter thread in one go ("Tweet Storm").
 
-<img src="https://github.com/chrisgrieser/twitter-workspace-for-drafts/blob/main/Draft%20+%20Twitter.png?raw=true" alt="Icon for Drafts Twitter Client" width=20% height=20%>
+<img src="https://github.com/chrisgrieser/twitter-workspace-for-drafts/blob/main/Draft%20+%20Twitter.png?raw=true" alt="Icon for Drafts Twitter Client" width=15% height=15%>
 
 **Composing**
 - Compose tweets with Twitter Syntax Highlighting (@mentions, #hashtags, ...).
 - Send tweets from directly from Drafts.
 - Automatically attach a hashtag when sending. Useful when tweeting repeatedly from a certain event
-- "Tweet Storm": Send a longer text automatically as a chained Twitter thread 
+- "Tweet Storm": Send a longer text automatically as a chained Twitter thread.
 
 **Overcome with the 280-character-limit**
 - Visually indicate character limit.
@@ -20,7 +20,6 @@ While not a full-fleged Twitter client when it comes to reading Tweets, Drafts t
 - Download faved tweets of any user.
 - Download Twitter search results.
 - View and print them in Markdown.
-
 
 ---
 
