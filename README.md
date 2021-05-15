@@ -24,9 +24,11 @@ While not a full-fleged Twitter client when it comes to interacting and reading 
 ---
 
 ## Setup
-- ➡️ **Download the [Latest Release](https://github.com/chrisgrieser/twitter-workspace-for-drafts/releases/latest).**
+- Install [the Workspace](https://actions.getdrafts.com/w/1mN).
+- Install the [Action-Group](https://actions.getdrafts.com/g/1mP).
+- Install the [Twitter Syntax Highlighting](https://actions.getdrafts.com/s/1mM).
 - Open the .zip archive. Install the action bar, the workspace, and the syntax file by double-clicking them. 
-- _Theme Recommendation:_ I recommend [Northern Light](https://actions.getdrafts.com/t/1jC) and [Northern Dark](https://actions.getdrafts.com/t/1jD) as themes that match Twitter's aesthetic. 
+- _Theme Recommendation:_ I recommend [Northern Light](https://actions.getdrafts.com/t/1jC) and [Northern Dark](https://actions.getdrafts.com/t/1jD) by kimonostereo as they match Twitter's aesthetic. 
 
 ## Credits
 - The syntax is derived from [nahumck's Tweet Syntax](https://actions.getdrafts.com/s/1iw) and adapted to work with the actions of this Workspace.
