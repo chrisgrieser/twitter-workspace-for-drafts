@@ -20,7 +20,10 @@ While not a full-fleged Twitter client when it comes to interacting and reading 
 - Download faved tweets of any user.
 - Download Twitter search results.
 - View and print them in Markdown.
+
+**Use with Drafts**
 - Tweets sent from Drafts are naturally archived in Drafts. This makes them easily searchable and allows you to run other Drafts acitons on them.
+- Call the Workspace via `Load Twitter Workspace` action to automatically imply the tags, syntax and visual needed for this workspace.
 
 ---
 
