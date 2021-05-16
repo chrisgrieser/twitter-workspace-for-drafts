@@ -5,9 +5,9 @@ While not a full-fleged Twitter client when it comes to interacting and reading 
 
 **Composing**
 - Compose tweets with Twitter Syntax Highlighting (@mentions, #hashtags, ...).
-- Send tweets from directly from Drafts.
+- Send tweets directly from Drafts.
 - Automatically attach a hashtag when sending. Useful when tweeting repeatedly from a certain event
-- `Tweet Storm`: Send a longer text automatically as a chained Twitter thread.
+- `Tweet Storm`: Send a longer text automatically as a Twitter thread.
 - On iOS, easily quickly insert `#` and `@`.
 
 **Overcome the 280-character-limit**
