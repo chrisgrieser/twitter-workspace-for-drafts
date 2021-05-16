@@ -35,7 +35,8 @@ While not a full-fleged Twitter client when it comes to interacting and reading 
 - Install the [Workspace](https://actions.getdrafts.com/w/1mN).
 - Install the [Action-Group](https://actions.getdrafts.com/g/1mP).
 - Install the [Syntax](https://actions.getdrafts.com/s/1mM).
-- Additionaly download the [Alfred Workflow for the Twitter Workspace](https://github.com/chrisgrieser/twitter-workspace-for-drafts/blob/main/Twitter%20for%20Drafts.alfredworkflow?raw=true) to begin tweeting from anywhere.
+- I recommend installing all three, as they are made to work well with each other.
+- Optionally you can also  download the [Alfred Workflow for the Twitter Workspace](https://github.com/chrisgrieser/twitter-workspace-for-drafts/blob/main/Twitter%20for%20Drafts.alfredworkflow?raw=true) to begin tweeting from anywhere.
 - _Theme:_ I recommend [Northern Light](https://actions.getdrafts.com/t/1jC) and [Northern Dark](https://actions.getdrafts.com/t/1jD) by kimonostereo as they match Twitter's aesthetic. 
 
 ## Credits
