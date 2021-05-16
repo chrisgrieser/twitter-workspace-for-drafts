@@ -43,5 +43,4 @@ While not a full-fleged Twitter client when it comes to interacting and reading 
 - The syntax is derived from [nahumck's Tweet Syntax](https://actions.getdrafts.com/s/1iw) and adapted to work with the actions of this Workspace.
 - Numerous actions (Tweet Storm, Downloading Favs, Emojify, ...) are adapted versions from [agiletortoise](https://agiletortoise.com/)'s actions.
 - This Workspace has otherwise been created by [Chris Grieser](https://chris-grieser.de/)
-- ...and of course you can follow me on Twitter 😉️ 
-[@pseudo_meta](https://twitter.com/pseudo_meta) [@pseudo_meta](https://twitter.com/pseudo_meta)
+- ...and of course you can follow me on Twitter 😉️ [@pseudo_meta](https://twitter.com/pseudo_meta)
