@@ -1,3 +1,10 @@
+---
+Since I do not use the workspace myself anymore, I am discontinuing its development. If anyone is interested in taking over, feel free to message me.
+
+The workspace mostly still works right now, nonetheless.
+
+---
+
 # Drafts Twitter Client
 While not a full-fleged Twitter client when it comes to interacting and reading tweets, Drafts text manipulation capabilities have many advantages. When it comes to the drafting of new tweets, Drafts can shine with features like automatic replacement of common abbreviations, or creating a long Twitter thread in one go (Tweet Storm).
 
